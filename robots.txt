@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://teassty.github.io/uyutnyy-dom/sitemap.xml
